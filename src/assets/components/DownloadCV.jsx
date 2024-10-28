@@ -1,6 +1,6 @@
-import aboutImg from '../about.jpg';
+import aboutImg from '../cv.jpg';
 import { motion } from 'framer-motion';
-import cvFile from '../pasindu.pdf'; // Adjust the path to your actual CV file
+import cvFile from '../Pasindu.pdf'; // Adjust the path to your actual CV file
 
 const About = () => {
   return (

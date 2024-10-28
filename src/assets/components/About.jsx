@@ -1,4 +1,4 @@
-import aboutImg from '../about.jpg';
+import aboutImg from '../me.jpg';
 import { motion } from 'framer-motion';
 
 const About = () => {
@@ -46,7 +46,7 @@ const About = () => {
             transition={{ duration: 0.8, delay: 0.5 }}
           >
             <p className="text-white my-2 max-w-xl py-6 ml-8 mt-0 mr-9">
-              I am a self-motivated and enthusiastic individual, passionate about the exciting field of machine learning and data science. My goal is to leverage my skills and knowledge in Python, SQL, JavaScript, HTML, and CSS to contribute to cutting-edge developments in these domains. Currently, I am a student at the Institute of Technology, University of Moratuwa, and I am dedicated to expanding my expertise and embracing new challenges in the ever-evolving world of technology. I thrive in fast-paced environments, and my problem-solving nature drives my commitment to creating innovative solutions. Eager to learn and adapt, I am poised to bring a fresh perspective to the field and contribute meaningfully to future projects.
+              I am self-motivated and enthusiastic individual, passionate about the exciting field of machine learning and data science. My goal is to leverage my skills and knowledge in Python, SQL, JavaScript, HTML, and CSS to contribute to cutting-edge developments in these domains. Currently, I am a student at the Institute of Technology, University of Moratuwa, and I am dedicated to expanding my expertise and embracing new challenges in the ever-evolving world of technology. I thrive in fast-paced environments, and my problem-solving nature drives my commitment to creating innovative solutions. Eager to learn and adapt, I am poised to bring a fresh perspective to the field and contribute meaningfully to future projects.
             </p>
 
             {/* New Description with Motion */}
