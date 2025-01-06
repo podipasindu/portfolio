@@ -4,7 +4,7 @@ import About from './assets/components/About';
 import Technologies from './assets/components/Technologies';
 import Experience from './assets/components/Experience';
 import Projects from './assets/components/Projects';
-import DownloadCV from './assets/components/DownloadCV'; 
+// import DownloadCV from './assets/components/DownloadCV'; 
 import Contact from './assets/components/Contact';
 
 
@@ -27,7 +27,7 @@ const App = () => {
         <Technologies />
         <Experience />
         <Projects />
-        <DownloadCV />
+        {/* <DownloadCV /> */}
         <Contact />
         
       </div>
